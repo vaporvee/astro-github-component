@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "files": [
+    "src",
+    "index.ts"
+  ],
+  "keywords": [
+    "astro-component"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "astro": "^4.8.3"
+  },
+  "peerDependencies": {
+    "astro": "^4.0.0"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.6.0",
+    "typescript": "^5.4.5"
+  }
+}
