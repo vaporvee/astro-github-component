@@ -22,12 +22,12 @@
   },
   "funding": [
     {
-      "type": "GitHub Sponsors",
-      "url": "https://github.com/sponsors/vaporvee"
-    },
-    {
       "type": "Ko-fi",
       "url": "https://ko-fi.com/vaporvee"
+    },
+    {
+      "type": "GitHub Sponsors",
+      "url": "https://github.com/sponsors/vaporvee"
     }
   ],
   "bugs": {
