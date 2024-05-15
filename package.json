@@ -1,6 +1,10 @@
 {
   "name": "astro-github-component",
-  "version": "1.0.2",
+  "author": "vaporvee",
+  "description": "Adds a component to astro with statically built GitHub info and dynamic updated stars and forks.",
+  "keywords":[ "astro-component","withastro"],
+  "license": "MIT",
+  "version": "1.0.3",
   "type": "module",
   "exports": {
     ".": "./index.ts"
@@ -8,9 +12,6 @@
   "files": [
     "src",
     "index.ts"
-  ],
-  "keywords": [
-    "astro-component"
   ],
   "scripts": {},
   "devDependencies": {
