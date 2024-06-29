@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/vaporvee/astro-github-component/issues"
   },
-  "homepage": "https://docs.vaporvee.com",
+  "homepage": "https://github.com/vaporvee/astro-github-component/",
   "scripts": {},
   "devDependencies": {
     "astro": "^4.8.3"
