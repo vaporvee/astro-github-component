@@ -10,5 +10,7 @@ More features/fixes will follow. <br>
 ```sh
 npm i astro-github-component
 ```
+[Click here for a demo](https://docs.vaporvee.com/)
+
 
 ![grafic](https://github.com/vaporvee/astro-github-component/assets/80621863/2ade5799-055c-419c-b6af-997a2bb337df)
